@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /contact/send-email
+Disallow: /contact/sent-emails
+
+Sitemap: https://www.saleemiexpert.com/sitemap.xml
